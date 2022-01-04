@@ -2,6 +2,13 @@
 
 <p align="center">Projeto em Flutter para praticar. Recriando tela de um app já existente.</p>
 
+<h3 align="center">Projeto realizado com:</h3>
+
+<div align="center">
+  <img height="26em" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" >
+  <img height="26em" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" >
+</div>
+
 <p align="center">Resultado:</p>
 
 <div align="center">
