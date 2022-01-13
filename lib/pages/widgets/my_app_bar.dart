@@ -43,7 +43,7 @@ class MyAppBar extends StatelessWidget {
                     ),
                   ],
                 ),
-                Icon(!showMenu ? Icons.expand_more : Icons.expand_more, color: Colors.white,),
+                Icon(!showMenu ? Icons.expand_more : Icons.expand_less, color: Colors.white,),
               ],
             ),
           ),
