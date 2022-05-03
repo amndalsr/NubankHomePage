@@ -1,4 +1,4 @@
-<h2 align="center">Nubank Home Page 💜</h2>
+<h2 align="center">Nubank Home Page</h2>
 
 <p align="center">Projeto em Flutter para praticar. Recriando tela de um app já existente.</p>
 
